@@ -68,3 +68,6 @@ a {
   text-decoration: none;
 }
 
+.image {
+    float: left;
+}
